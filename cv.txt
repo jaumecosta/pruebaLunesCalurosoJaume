@@ -1,6 +1,8 @@
 Soy Jaume Costa!
+Vivo en Palma
 
 Working Area
 Stage Area(RAM)
 Commit Area (BD archivar)
+
 
