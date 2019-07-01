@@ -1,0 +1,6 @@
+Soy Jaume Costa!
+
+Working Area
+Stage Area(RAM)
+Commit Area (BD archivar)
+
